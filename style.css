@@ -1,0 +1,18 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 2rem;
+  line-height: 1.5;
+  background-color: bisque;
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  margin: 30px 10px;
+  padding: 15px;
+  border: 3px black;
+  background-color: brown;
+}
